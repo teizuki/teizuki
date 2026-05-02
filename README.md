@@ -1,5 +1,5 @@
 <div align="left">
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://imgur.com/gallery/yotsuba-x-one-piece-foRiAkP#/t/manga_gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
